@@ -35,10 +35,6 @@ If you are on an older version of React Native, you’ll need to keep using [Rea
   - [`connect([mapStateToProps], [mapDispatchToProps], [mergeProps], [options])`](docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options)
 - [Troubleshooting](docs/troubleshooting.md#troubleshooting)
 
-## How Does It Work?
-
-We do a deep dive on how React Redux works in [this readthesource episode](https://www.youtube.com/watch?v=VJ38wSFbM3A).  
-Enjoy!
 
 ## License
 
